@@ -1,5 +1,5 @@
 package interface1;
-//
+// Hierarchical INHERITANCE WITH INTERFACE
 
 interface Sample12{
 	void test1();
